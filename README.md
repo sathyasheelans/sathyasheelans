@@ -1,5 +1,6 @@
-# 💫 About Me:
-I'm a passionate engineer working in the field of Autonomous Driving to make the roads safer.<br>Specialized in handling critical sensors like (Radar, camera, LiDAR, GNSS, and IMU) in an AV. Experienced in working with V2X, and C-V2X devices to develop connectivity features in CAVs.<br>I am currently, working towards the concept of AR (augmented reality) of LiDAR point cloud to generate virtual ghost vehicles for running dangerous, safety-critical and otherwise troublesome edge-cases on a benchtop simulation setting and also integrate it with the real-time environment point cloud to perform the testing without the risk of deploying actual POVs.
+#  About Me:
+Experienced Electrical and Computer Engineer specializing in autonomous vehicle sensors and road safety. Expert in Lidar architecture, robotics, and software development for simulation and analysis tools. Demonstrates a strong track record in testing and analyzing critical components including Lidar, cameras, and V2X systems. Skilled in managing multiple projects in fast-paced environments, ensuring seamless system integration and enhanced functionality.
+
 
 
 ## 🌐 Socials:
