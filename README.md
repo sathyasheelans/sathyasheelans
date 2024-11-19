@@ -1,6 +1,5 @@
 #  About Me:
-Experienced Electrical and Computer Engineer specializing in autonomous vehicle sensors and road safety. Expert in Lidar architecture, robotics, and software development for simulation and analysis tools. Demonstrates a strong track record in testing and analyzing critical components including Lidar, cameras, and V2X systems. Skilled in managing multiple projects in fast-paced environments, ensuring seamless system integration and enhanced functionality.
-
+System/Application Software Engineer specializing in autonomous vehicle sensors and lidar architecture. Skilled in deep learning, computer vision, and robotics, with expertise in testing and integrating lidar, cameras, and V2X systems. Experienced in customer engagement and project management, delivering tailored solutions to meet diverse client needs.
 
 
 ## 🌐 Socials:
